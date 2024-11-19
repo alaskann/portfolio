@@ -1,4 +1,3 @@
-import { Forehead } from "@/components/ui/forehead";
 import Image from "next/image";
 import image from "../../public/self.jpg";
 
@@ -14,7 +13,7 @@ export default function Home() {
           // fill={true}
           alt="Picture of Jason Procka"
           priority
-          className="w-full rounded-lg overflow-hidden"
+          className="w-full rounded-md overflow-hidden"
         />
         <h1 className="font-semibold mt-std-sm text-xl">
           Welcome to my portfolio 🙂
