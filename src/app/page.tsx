@@ -19,10 +19,10 @@ export default function Home() {
           Welcome to my portfolio 🙂
         </h1>
         <p>
-          Hey! My name is Jason Procka and I'm a developer located in Fargo,
-          North Dakota (but I'm originally from Minot). I love learning about
-          new technologies and methods for building interactive apps. I have no
-          formal training.
+          Hey! My name is Jason Procka and I&apos;m a developer located in
+          Fargo, North Dakota &#40;but I&apos;m originally from Minot&#41;. I
+          love learning about new technologies and methods for building
+          interactive apps. I have no formal training.
         </p>
       </div>
     </>
